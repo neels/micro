@@ -1,5 +1,7 @@
 # micro
-A Docker service that sends emails using Flask, RabbitMQ, Mysql and PHP. Languages used to complete this Project `PHP, Python, SQL`
+This is a Docker service that sends emails using Flask, RabbitMQ, Mysql and PHP. Languages used to complete this Project `PHP, Python, SQL`
+
+"I am just playing around with some technology here and was a fun project."
 
 #### flask (API)
 * gets the POST request and then validates the JSON and passes it RabbitMQ
